@@ -6,9 +6,9 @@
 This Android application fulfills the requirements of the Republic Services Take-Home Challenge. It uses Clean Architecture principles, Jetpack libraries, and Kotlin to fetch, store, and display driver and route information.
 
 ## Screens
-<img src="screenshots/driver_screen.png" alt="Resized Image" width="400">
+<img src="screenshots/driver_screen.png" alt="Resized Image" width="300">
 
-<img src="screenshots/route_screen.png" alt="Resized Image" width="400">
+<img src="screenshots/route_screen.png" alt="Resized Image" width="300">
 
 ## Features
 
